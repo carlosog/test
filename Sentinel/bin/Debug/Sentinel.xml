@@ -1,0 +1,98 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sentinel
+</name>
+</assembly>
+<members>
+<member name="T:Sentinel.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sentinel.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sentinel.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Sentinel.BDZSentinel.Sentinel">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.#ctor">
+<remarks/>
+</member>
+<member name="E:Sentinel.BDZSentinel.Sentinel.HelloWorldCompleted">
+<remarks/>
+</member>
+<member name="E:Sentinel.BDZSentinel.Sentinel.GetListCompleted">
+<remarks/>
+</member>
+<member name="E:Sentinel.BDZSentinel.Sentinel.SetTPCompleted">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.HelloWorld">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.HelloWorldAsync">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.HelloWorldAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.GetList(System.Int64,System.Int64,System.String)">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.GetListAsync(System.Int64,System.Int64,System.String)">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.GetListAsync(System.Int64,System.Int64,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.SetTP(System.Int64,System.Int64,System.Int64)">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.SetTPAsync(System.Int64,System.Int64,System.Int64)">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.SetTPAsync(System.Int64,System.Int64,System.Int64,System.Object)">
+<remarks/>
+</member>
+<member name="M:Sentinel.BDZSentinel.Sentinel.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:Sentinel.BDZSentinel.HelloWorldCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Sentinel.BDZSentinel.HelloWorldCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Sentinel.BDZSentinel.HelloWorldCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Sentinel.BDZSentinel.GetListCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Sentinel.BDZSentinel.GetListCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Sentinel.BDZSentinel.GetListCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Sentinel.BDZSentinel.SetTPCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Sentinel.BDZSentinel.SetTPCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Sentinel.BDZSentinel.SetTPCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>
